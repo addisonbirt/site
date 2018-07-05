@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLake",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -54,12 +54,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -80,10 +80,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -371,16 +371,16 @@
             }
           },
           "title1": "RACHEL",
-          "subtitle1": "INFOMATION",
+          "subtitle1": "INFORMATION",
           "caption1": "Our multi-award winning Rachel is a semi-soft unpasteurised goat cheese with a smooth texture and sweet, medium flavour. As she matures, Rachel is washed regularly in a brine solution – this gives the artisan cheese a dusky rind, and the occasional orange and yellow spots. Rachel is the namesake of Pete’s friend who, much like the cheese, is sweet, curvy and just a little bit nutty!<br><br><b>Product Information&nbsp;<br></b>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Semi-Hard, Washed Rind (Brine)\n<br>Weight : Approx 2kg\n<br>Origin: Somerset<br><b><br></b><br><b>Awards</b><br>2007 - British Cheese Awards - Best Goat Cheese\n<br>2009 - British Cheese Awards - Best Semi Soft Cheese\n<br>2012 - World Cheese Awards - Super Gold\n<br>2015 - British Cheese Awards - Gold\n<br>2015 - Mondial du Fromage - Gold Medal\n<br>2015 – World Cheese Awards – Silver<b><br></b><br>",
           "title2": "KATHERINE",
-          "subtitle2": "INFOMATION",
+          "subtitle2": "INFORMATION",
           "caption2": "A raw milk version of Rachel, made with animal rennet and washed in Somerset Cider Brandy. Katherine is an artisan goat cheese with a slightly softer texture than Rachel. She has a stronger, more complex flavour and ‘farmy’ undertones.<br><br><b>Product Information</b><br>Milk : Goat\n<br>Unpateurised : Yes (Raw)\n<br>Rennet : Animal\n<br>Style : Semi-Hard, Washed Rind (Somerset Cider Brandy)\n<br>Weight : 250g / 2kg\n<br>Origin: Somerset<br><br><b>Awards</b><br>2014 - World Cheese Awards - Gold\n<br>2015 - British Cheese Awards - Bronze<b><br></b>",
           "title3": "TRICKLE",
-          "subtitle3": "INFOMATION",
+          "subtitle3": "INFORMATION",
           "caption3": "&nbsp;A delicately small, goat cheese with a natural white rind and smooth texture. Starting its life with a fresh, citrus flavour with hints of lemon, Trickle gradually evolves to gain a mild taste reminiscent of single cream. Weighing in at around 60g a piece, it is the perfect unpasteurised artisan cheese for individual portions. Available in boxes containing six Trickles.<br><br><b>Product Information</b><br>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : Approx 60g\n<br>Origin: Somerset<b><br></b>",
           "title4": "LILLY / LITTLE LILLY\r",
-          "subtitle4": "INFOMATION",
+          "subtitle4": "INFORMATION",
           "caption4": "The lovely Lilly is a classically mild and creamy unpasteurised goat cheese. This brie-style cheese has a bloomy rind that is vibrant white in colour. Artisan goat cheese at its best, created in Somerset.<br><br><b>Product Information</b><br>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 125g / 230g\n<br>Origin: Somerset<b><br></b>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -484,16 +484,16 @@
             }
           },
           "title1": "WHITE WOOD\r",
-          "subtitle1": "INFOMATION",
+          "subtitle1": "INFORMATION",
           "caption1": "As its name suggests, White Wood is a log shaped goat cheese, with a beautifully white, bloomy rind. This unpasteurised artisanal goat cheese has a soft texture and lactic flavour – divine!<br><br><b>Product Information</b><br>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 215g\n<br>Origin: Somerset<b><br></b>",
           "title2": "EVE",
-          "subtitle2": "INFOMATION",
+          "subtitle2": "INFORMATION",
           "caption2": "An evolution of our Little Lilly, the alluring Eve is a meltingly soft goat cheese, washed in Somerset Cider Brandy and beautifully wrapped up in a vine leaf. Mild and sweet when young, aging to a nutty, slightly yeasty, flavoured artisan goat cheese.<br><br><b>Product Information</b><br>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 125g\n<br>Origin: Somerset<br><br><b>Awards</b><br>2015 British Cheese Awards - Silver&nbsp;<br>",
           "title3": "TOR",
-          "subtitle3": "INFOMATION",
+          "subtitle3": "INFORMATION",
           "caption3": "Created in tribute to the ancient Glastonbury Tor in Somerset, Tor is an unusual, pyramid-shaped unpasteurised cheese. With an ash coating and geotrichum rind, this soft goat cheese has a very smooth close texture. Its unique flavour is fresh and lemony with a hint of earthiness.<br><br><b>Product Information</b><br>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 200g\n<br>Origin: Somerset<br><br><b>Awards</b><br>2015 British Cheese Awards - Best Fresh Cheese\n<br>2015 British Cheese Awards - Best Goat Cheese\n<br>2015 British Cheese Awards - Gold\n<br>2015 World Cheese Awards - Bronze&nbsp;<br>",
           "title4": "DRIFTWOOD",
-          "subtitle4": "INFOMATION",
+          "subtitle4": "INFORMATION",
           "caption4": "Driftwood is a fresh, lactic, log-shaped goat cheese with a distinctive lemon flavour and a silky smooth, thick texture. This vivid ash coated goat log, with a natural rind, slices perfectly into neat discs of deliciousness to enhance any cheeseboard or salad.&nbsp;<br><br><b>Product Information</b><br>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 215g\n<br>Origin: Somerset<br><br><b>Awards</b><br>2014 World Cheese Awards – Gold\n<br>2015 World Cheese Awards – Bronze<b><br></b>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -591,10 +591,10 @@
             }
           },
           "title1": "WHITE HEART\r",
-          "subtitle1": "INFOMATION",
+          "subtitle1": "INFORMATION",
           "caption1": "<p>Originally made as a Valentine’s Day present, this adorable heart-shaped goat cheese is the perfect gift for your cheese-loving inamorata. Tasting as good as it looks, White Heart is a mild and crumbly unpasteurised cheese, similar in style to White Nancy, however its texture is slightly softer and its flavour mildly creamier. Serve with raspberries, for a real artisan treat.</p><p><b>Product Information</b></p><p>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 220g\n<br>Origin: Somerset<b><br></b></p>",
           "title2": "WHITE NANCY / LONG BOW\r",
-          "subtitle2": "INFOMATION",
+          "subtitle2": "INFORMATION",
           "caption2": "A mild and crumbly unpasteurised goat cheese with a white bloomy rind. White Nancy has a semi-soft texture and a slightly sweet, fresh citrus taste. As the cheese matures and softens the flavour becomes richer and creamier. One of our earliest creations, the cheese itself is named after a local to home landmark in the village of Bollington, Cheshire near where Pete “grew up” and “worked” for many years before he moved to the South West.<br><br>LONG BOW – A log version of White Nancy. The same delicious, mild and crumbly goat’s milk cheese, lovingly made in the heart of Somerset.<br><br><b>Product Information</b><br><br>Milk : Goat\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 500g (White Nancy) / 800g (Long Bow)\n<br>Origin: Somerset<b><br></b>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
@@ -635,12 +635,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -661,10 +661,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -919,12 +919,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -945,10 +945,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1209,12 +1209,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1235,10 +1235,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1407,12 +1407,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1634,12 +1634,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1660,10 +1660,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1791,12 +1791,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1817,10 +1817,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2118,12 +2118,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>FIND US AT A MARKET</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">GOAT CHEESES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COW CHEESES </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Mail order</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2144,10 +2144,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
